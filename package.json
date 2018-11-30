@@ -1,0 +1,24 @@
+{
+  "bugs": {
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Mark Lamourine",
+      "url": "https://github.com/markllama"
+    }
+  ],
+  "dependencies": {
+    "@types/react": "*"
+  },
+  "deprecated": false,
+  "description": "TypeScript definitions for react-materialize",
+  "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped#readme",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/react-materialize",
+  "scripts": {},
+  "typeScriptVersion": "2.8",
+  "version": "0.1"
+}
